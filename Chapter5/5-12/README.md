@@ -96,8 +96,6 @@ public class MemberHashSetTest {
 Member.java
 ```
 
-...
-
     @Override
 	public int hashCode() {
 		return memberId;
