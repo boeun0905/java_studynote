@@ -43,21 +43,7 @@
 * 게임 프로그래밍
 
 ## 이 과정에서 배워야 할 내용
-* 자바 언어 익히기 (문법)
-
-* 객체 지향 프로그래밍 개념을 익히고 자바로 구현하기
-
-* 자료 구조의 필요성을 이해하고 구현하기
-
-* 자바 언어의 정확한 이해를 통한 문제 해결하기(객체지향, 알고리즘 문제 등)
-
-
-## 용어 정리
-
-    JDK(Java Development Kit) : 자바에서 제공되는 개발용 라이브러리. 계속 버젼이 올라가고 있음
-    JRE(Java Runtime Environment) : 자바 프로그램이 실행되는 환경. 8.0까지 무료로 제공 됨
-    JVM(Java Virtual Machine) : 자바 가상 머신으로 프로그램이 실행되는 환경인 JRE 가 설치되어 있어야 함
-
+![Alt text](./img/vm.PNG)
 ## 다음 강의
 [02. 자바와 이클립스 설치하기](https://gitlab.com/easyspubjava/javacoursework/-/tree/master/Chapter1/01-02/README.md)
 
