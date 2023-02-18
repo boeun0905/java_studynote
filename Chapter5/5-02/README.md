@@ -188,12 +188,7 @@ public class MyObjectArray {
 	{
 		ARRAY_SIZE = size;
 		array = new Object[ARRAY_SIZE];
-	}
-	
-	
-
-	
-	
+	}	
 	
 }
 ```
