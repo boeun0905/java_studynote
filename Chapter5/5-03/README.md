@@ -1,4 +1,4 @@
-# 02. 연결 리스트 (LinkedList) 구현하기
+# 03. 연결 리스트 (LinkedList) 구현하기
 
 ## LinkedList 특징
 
